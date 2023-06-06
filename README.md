@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayarray
-- 👀 I’m interested in 42
-- 🌱 I’m currently learning 42
+- 👀 I’m interested in bitcoin
+- 🌱 I’m currently learning École 42 cursus (C / C++)
 - 💞️ I’m looking to collaborate on 42
 - 📫 How to reach me 42
 
